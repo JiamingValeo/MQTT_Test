@@ -1,3 +1,8 @@
+# @file    
+# @author  Jiaming ZHANG
+# @date    09/04/2024
+# @brief   This file provides an exemple of MQTT sub callback application with paho lib
+
 import paho.mqtt.subscribe as subscribe
 # to do, not tested
 def on_message_print(client, userdata, message):

@@ -1,3 +1,9 @@
+# @file    
+# @author  Jiaming ZHANG
+# @date    09/04/2024
+# @brief   This file provides an exemple of MQTT client application with paho lib
+
+
 # https://pypi.org/project/paho-mqtt/#client
 import paho.mqtt.client as mqtt
 
